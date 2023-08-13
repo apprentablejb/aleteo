@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <string name="app_name">deliveryEat</string>
+    <string name="facebook_app_id">https://www.facebook.com/profile.php?id=100072054</string>
+               <string name="fb_login_protocol_scheme">fbhttps://www.facebook.com/profile.php?id=100072054</string>
+</resources>
